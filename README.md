@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jared8cortez/Indi/_apis/build/status/jared8cortez.pipelines-java?branchName=master)](https://dev.azure.com/jared8cortez/Indi/_build/latest?definitionId=1?branchName=master)
 
 # Contributing
 
